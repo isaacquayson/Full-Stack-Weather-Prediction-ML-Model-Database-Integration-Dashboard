@@ -126,8 +126,9 @@ This weather classification project successfully demonstrates an end-to-end mach
 
 The implementation of a functional **Flask application** with database integration and an **interactive dashboard** provides both practical utility and valuable insights into weather patterns, showcasing the effective application of data science methodologies to real-world meteorological challenges.
 
+---
 
-
+![](https://github.com/isaacquayson/Full-Stack-Weather-Prediction-ML-Model-Database-Integration-Dashboard/blob/main/Screenshot%202025-08-30%20144343.png)
 
 
 
