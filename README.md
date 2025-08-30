@@ -134,7 +134,9 @@ The implementation of a functional **Flask application** with database integrati
 
 ![](https://github.com/isaacquayson/Full-Stack-Weather-Prediction-ML-Model-Database-Integration-Dashboard/blob/main/Screenshot%202025-08-30%20144630.png)
 
+---
 
+![](https://github.com/isaacquayson/Full-Stack-Weather-Prediction-ML-Model-Database-Integration-Dashboard/blob/main/Screenshot%202025-08-30%20144727.png)
 
 
 
